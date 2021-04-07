@@ -25,3 +25,4 @@ o/p -> 110111 (print j-1 times '1') (followed by 0) (followed by binary of 7)
 
 Ans = 00110111
 
+If this helps you, Don't forget to give a Star!!! Happy learning!!!
